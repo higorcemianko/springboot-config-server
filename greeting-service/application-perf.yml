@@ -10,4 +10,4 @@ management:
           - '*'
 greeting-service:
   greeting: "Olá"
-  default-value: "Perf"
+  default-value: "Perf NOVO"
